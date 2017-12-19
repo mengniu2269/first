@@ -1,6 +1,8 @@
 package cn.itcast.pojo;
 
 public class ProductModel {
+	
+	private String  abc;
 
 	// 商品编号
 	private String pid;
