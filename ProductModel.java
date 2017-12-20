@@ -5,6 +5,7 @@ public class ProductModel {
 	private String  abc;
 	private String bca;
 	private String c;
+	private String d;
 
 	// 商品编号
 	private String pid;
